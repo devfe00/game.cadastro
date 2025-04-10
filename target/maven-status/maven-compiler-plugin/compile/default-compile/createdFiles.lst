@@ -1,0 +1,7 @@
+com/uolhost/challenge/model/Player.class
+com/uolhost/challenge/model/Codename.class
+com/uolhost/challenge/service/CodenameService.class
+com/uolhost/challenge/controller/PlayerController.class
+com/uolhost/challenge/repository/PlayerRepository.class
+com/uolhost/challenge/service/PlayerService.class
+com/uolhost/challenge/Application.class
